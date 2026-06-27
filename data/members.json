@@ -1,0 +1,63 @@
+{
+  "section": "11 - HUMSS (TAÑADA)",
+  "strand": "Humanities and Social Sciences",
+  "schoolYear": "2026-2027",
+  "motto": "One section, one story.",
+
+  "adviser": {
+    "name": "Adviser Name Here",
+    "title": "Class Adviser"
+  },
+
+  "officers": [
+    { "position": "President", "name": "Bantog Paul Jake M." },
+    { "position": "Vice President", "name": "Tolledo, Lovely Mae" },
+    { "position": "Secretary", "name": "Celorico, Stephanie Joy" },
+    { "position": "Treasurer", "name": "Gozo, Aubrey" },
+    { "position": "Auditor", "name": "Dano, Reneilyn" },
+    { "position": "P.I.O.", "name": "Ferreras, Leo" },
+    { "position": "Peace Officer 1", "name": "Tubigon, Ashley" },
+    { "position": "Peace Officer 2", "name": "Peace Officer 2 Name" },
+    { "position": "Muse", "name": "Luyun, Vherilyn" },
+    { "position": "Representative", "name": "Lim, Gian Carlo" }
+  ],
+
+  "girls": [
+    { "name": "Alminiana, Aisha Mitch C." },
+    { "name": "Cabaging, Lhalyn J." },
+    { "name": "Desaville, Mary Grace" },
+    { "name": "Enrera, Krissa" },
+    { "name": "Gonzales, Annalyn" },
+    { "name": "Igay, Ma. Celestina M." },
+    { "name": "Mirande, Aira Shaine U." },
+    { "name": "Oliveros, Rheanna Lixie Y." },
+    { "name": "Tolledo, Lovely Mae C." }
+  ],
+
+  "boys": [
+    { "name": "Cobarrubias, Jhon Rey" },
+    { "name": "Cuano, Hans Deoven A." },
+    { "name": "Dublin, Francis" },
+    { "name": "Forcadilla, Allan" },
+    { "name": "Hitosis, Alvin Jay" },
+    { "name": "Ibardaloza, Dave" },
+    { "name": "Marfe, Kean Rain" },
+    { "name": "Martellino, Mark Angelo" },
+    { "name": "Nalundasan, Ralfh" },
+    { "name": "Rangis, Joshua Javier" },
+    { "name": "Rosal, Jhon Dherick P." },
+    { "name": "Saguidon, Mark Kelly" },
+    { "name": "Torrecampo, Christan S." },
+    { "name": "Turing, Jason" }
+  ],
+
+  "queenOfTheRoom": {
+    "name": "Queen of the Room Name Here",
+    "title": "Queen of the Room"
+  },
+
+  "palabanNaPinay": {
+    "name": "Palaban na Pinay Name Here",
+    "title": "Palaban na Pinay"
+  }
+}
